@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BenjaminCerninak
 - 👀 I’m interested in JavaScript & PHP
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning PHP
 - 💞️ I’m looking to collaborate on Web application development
 - 📫 How to reach me - benjamin.cerninak@gmail.com
 
