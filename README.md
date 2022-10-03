@@ -1,4 +1,4 @@
-🇨🇿 @BenjaminCerninak | JavaScript & PHP | benjamin.cerninak@gmail.com | 📍 London
+🇨🇿 @BenjaminCerninak |HTML5 / CSS3, JavaScript | benjamin.cerninak@gmail.com | 📍 Prague
 
 
 <!---
