@@ -1,4 +1,4 @@
-🇨🇿 @BenjaminCerninak |HTML5 / CSS3, JavaScript | benjamin.cerninak@gmail.com | 📍 Prague
+🇨🇿 @BenjaminCerninak | HTML5 / CSS3, JavaScript | benjamin.cerninak@gmail.com | 📍 Prague
 
 
 <!---
