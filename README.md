@@ -1,4 +1,4 @@
-🇨🇿 @BenjaminCerninak | HTML / CSS, JavaScript, React | benjamin.cerninak@gmail.com | 📍 Prague
+🇨🇿 @BenjaminCerninak | HTML / CSS, JavaScript, React | benjamin.cerninak@gmail.com | https://cerninak.netlify.app/ | 📍 Prague
 
 
 <!---
